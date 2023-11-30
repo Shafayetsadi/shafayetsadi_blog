@@ -1,5 +1,3 @@
-baseURL = 'https://shafayetsadi.github.io/'
+baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'Shafayet Sadi'
-
-theme = "risotto"
+title = 'My New Hugo Site'
