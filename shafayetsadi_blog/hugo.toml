@@ -1,0 +1,5 @@
+baseURL = 'https://shafayetsadi.github.io/'
+languageCode = 'en-us'
+title = 'Shafayet Sadi'
+
+theme = "risotto"
