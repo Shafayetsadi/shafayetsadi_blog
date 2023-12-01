@@ -1,5 +1,19 @@
 +++
-title = 'First Post'
-date = 2023-12-01T22:12:05+06:00
+author = "Shafayet Sadi"
+title = "My First Post"
+date = "2023-11-28"
+description = "Testing post"
+tags = [
+    "testing",
+    "first",
+    "markdown",
+]
+categories = [
+    "testing",
+    "syntax",
+]
+series = ["Markdown Guide"]
+aliases = ["markdown-guide"]
 +++
-This is my first post.
+
+This is my first post in my new blog website.

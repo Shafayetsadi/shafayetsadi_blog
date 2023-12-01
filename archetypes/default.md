@@ -1,5 +1,17 @@
 +++
-title = '{{ replace .File.ContentBaseName "-" " " | title }}'
+author = "Shafayet Sadi"
+title = "{{ replace .File.ContentBaseName "-" " " | title }}"
 date = {{ .Date }}
-draft = true
+description = ""
+tags = [
+    "",
+    "",
+    "",
+]
+categories = [
+    "",
+    "",
+]
+series = [""]
+aliases = [""]
 +++
